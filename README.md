@@ -1,0 +1,4 @@
+- 👋 Hi! Soy Nowlie :owl: 
+- 🌱 Estoy aprendiendo sobre muchas cosas, entre ellas Javascript y .NET
+- :books: Tengo conocimientos en Java, C, HTML y CSS.
+- :nerd_face: Soy estudiante universitario y una persona autodidacta.
